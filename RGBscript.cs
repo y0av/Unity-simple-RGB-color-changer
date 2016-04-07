@@ -6,7 +6,7 @@ public class RGBscript : MonoBehaviour {
 	const float speed = 0.1f;
 	float t = 0;
 	int i = 0;
-	Color[] colors = {  Color.white,
+	Color[] colors = {  			Color.white,
 						Color.red,
 						Color.green,
 						Color.blue,
